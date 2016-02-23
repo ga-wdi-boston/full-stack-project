@@ -123,9 +123,10 @@ Here's a rough sketch of what you should do and in what order:
 1.  [ ] Create two repos that your project will use, and add READMEs to both.
 1.  [ ] Create a simple front-end with HTML and CSS based (loosely) on your
     wireframes.
-1.  [ ] User our `rails-template` for your back-end. It already includes
-    authentication.
-1.  [ ] After you have an ERD, check with a consultant to ensure your data model
+-   [ ] User our
+    [`rails-api-template`](https://github.com/ga-wdi-boston/rails-api-template)
+    for your back-end. It already includes authentication.
+-   [ ] After you have an ERD, check with a consultant to ensure your data model
     is appropriate for your goals. Then, build the models and migrations to
     represent this data. Test your models using the Rails console, and test your
     API endpoints using `curl`. You may also write automated tests in RSpec if
