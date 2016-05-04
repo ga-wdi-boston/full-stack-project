@@ -9,7 +9,7 @@ API and use it.
 
 At a high level, here are our goals for you in this project:
 
--   Build a single-page application (SPA) with basic user authentication that
+-   Build a single-page application (SPA) with basic user authentication (sign up, sign in, sign out, change password) that
     interacts with a custom API that you build
 -   Build an app that can create, read, update, and delete data in a SQL
     database
