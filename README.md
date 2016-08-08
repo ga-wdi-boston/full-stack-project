@@ -38,7 +38,7 @@ huge potential pitfall for any project!
         plan out your app.
     -   A **link** to the live application.
 
-In order to get a satisfactory score, your app must:
+### Your app must
 
 -   Have an **API** that is securely accessible by your browser app, built using
     frameworks covered in class.
@@ -51,6 +51,11 @@ In order to get a satisfactory score, your app must:
     and write) and render data that it receives in the browser.
 -   Have **semantically clean HTML and CSS**
 -   Be **deployed online**, so that it is accessible to the public
+
+### Your app must not
+
+-   Have any obvious user-facing errors
+-   Rely on refreshing the page for any functionality.
 
 ### Bonus
 
