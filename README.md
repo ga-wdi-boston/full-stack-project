@@ -51,6 +51,7 @@ huge potential pitfall for any project!
     and write) and render data that it receives in the browser.
 -   Have **semantically clean HTML and CSS**
 -   Be **deployed online**, so that it is accessible to the public
+-   Be linked in your `pinned repositories` on your GitHub profile page
 
 ### Your app must not
 
